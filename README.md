@@ -1,6 +1,7 @@
-# Statystyczna Analiza Danych - Superstore
+# Podstawy Analizy Danych
+# Superstore
 
-Projekt zaliczeniowy z przedmiotu Statystyczna Analiza Danych. Analiza eksploracyjna zbioru transakcji sprzedażowych Superstore wraz z testami statystycznymi i weryfikacją hipotezy badawczej.
+Projekt zaliczeniowy z przedmiotu Podstawy Analizy Danych. Analiza eksploracyjna zbioru transakcji sprzedażowych Superstore wraz z testami statystycznymi i weryfikacją hipotezy badawczej.
 
 ## Dane
 
